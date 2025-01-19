@@ -29,5 +29,6 @@ public class RecursiveSum {
         return numbers[index] + recursiveSum(numbers, index + 1);
     }
 }
+}
 
 
